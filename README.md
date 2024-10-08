@@ -1,1 +1,1 @@
-# ict-bad-word-detect
+# 这是存放相关数据文件的仓库
